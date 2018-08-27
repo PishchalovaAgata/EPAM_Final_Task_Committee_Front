@@ -1,0 +1,21 @@
+.faculty-tab {
+    width: 100%;
+    margin: 1em;
+}
+
+.faculty-pagination {
+    width: 100%;
+    margin: 1em;
+    text-align: center;
+}
+
+.countTable {
+    width:10%;
+    display: inline !important;
+    margin-right:1% !important;
+}
+
+.left-float {
+    float: left;
+    position: relative;
+}

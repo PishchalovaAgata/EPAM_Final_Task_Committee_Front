@@ -1,0 +1,7 @@
+.entrant-faculty {
+    width: calc(42% - 1em);
+    right: 0;
+    position: absolute;
+    padding: 2em;
+    margin-bottom: 5%;
+}

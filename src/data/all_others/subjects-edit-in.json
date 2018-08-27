@@ -1,0 +1,8 @@
+//POST
+// ./subjects/edit
+
+{
+  "add": ["s1","s2","s3"],
+  "delete": ["s1","s2","s3"],
+  "edit": [{"old": "s1","new": "s2"},{"old": "s1","new": "s2"},{"old": "s1","new": "s2"}]
+}

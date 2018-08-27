@@ -1,0 +1,7 @@
+// POST
+// ./faculty/register
+
+{
+  "entrant_id": id,
+  "faculty_id": id
+}

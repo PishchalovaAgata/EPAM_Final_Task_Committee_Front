@@ -1,0 +1,23 @@
+// метод POST
+
+{
+  "email": "my@mail",
+  "login": "user",
+  "first_name": "some name",
+  "surname": "some surname",
+  "certificate": 34,
+  "marks": [
+    {
+      "subject": "math",
+      "value": 45
+    },
+    {
+      "subject": "math2",
+      "value": 49
+    },
+    {
+      "subject": "math3",
+      "value": 74
+    }
+  ]
+}

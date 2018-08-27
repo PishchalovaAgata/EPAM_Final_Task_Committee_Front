@@ -1,0 +1,11 @@
+// код 404 если не найдено
+
+{
+  "id": 0,
+  "entry_plan":120,
+  "amount_entrant":300,
+  "name": "Faculty of Applied Mathematics and Computer Science",
+  "is_Unavailable": false,
+  "subjects": ["Math", "Foreign language", "Native language"],
+  "time": 111111111111
+}

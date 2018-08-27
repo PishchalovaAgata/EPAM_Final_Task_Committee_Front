@@ -1,0 +1,7 @@
+.admin-panel {
+    width: calc(30% - 1em);
+    right: 0;
+    position: absolute;
+    padding: 2em;
+    margin-bottom: 5%;
+}

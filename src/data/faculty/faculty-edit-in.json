@@ -1,0 +1,12 @@
+// POST
+
+// ./faculty/edit/id
+
+{
+  "id": 0,
+  "entry_plan":120,
+  "amount_entrant":300,
+  "name": "Faculty of Applied Mathematics and Computer Science",
+  "subjects": ["Math", "Foreign language", "Native language"],
+  "time": 111111111111
+}

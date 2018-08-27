@@ -1,0 +1,8 @@
+// POST
+// ./register
+
+{
+  "email": "email",
+  "login": "username",
+  "password": "password"
+}

@@ -1,0 +1,16 @@
+.filter-container {
+    background-color: #ffffff;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    padding: 1em 2em;
+    margin-top: 6px;
+}
+
+.filter-item{
+    width: 100%;
+    margin-top: 1em;
+}
+
+.container-right{
+    width: 100%;
+    text-align: right;
+}

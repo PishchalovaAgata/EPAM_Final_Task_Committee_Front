@@ -1,0 +1,186 @@
+{
+  "dropDownMenu": {
+    "selectLan": "Select Language",
+    "closeBtn": "Close",
+    "signOut": "Sign Out",
+    "cabinet": "Personal Cabinet",
+    "mainPage": "Main Page"
+  },
+  "faculty": {
+    "table": {
+      "register": "Register to Faculty",
+      "reqSubjects": "Required subjects",
+      "recruitmentPlan": "Recruitment plan",
+      "requestsSubmitted": "Number of requests submitted.",
+      "deadline":"Deadline for requests",
+      "getSheet": "Get Sheet",
+      "warning": {
+        "header":"Looks like nothing here",
+        "title": "Sorry for that"
+      }
+    },
+    "edit": {
+      "name": "Edit Faculty",
+      "placeholders":{
+        "name": "Faculty name",
+        "recruitmentPlan": "0"
+      },
+      "labels":{
+        "name": "Please type new faculty name",
+        "deleteCheckbox": "Select if you want to delete all users who already applied for this faculty",
+        "recruitmentPlan": "Please type recruitment plan",
+        "requestsSubmitted": "Number of requests submitted",
+        "subjects": "Subjects"
+      },
+      "editButton": "Edit",
+      "errorSubmittingMessageSubjects": "You should add 3 subjects exactly",
+      "errorMessage": "Action Forbidden"
+    },
+    "add": {
+      "name": "Add Faculty",
+      "placeholders":{
+        "name": "Faculty name",
+        "recruitmentPlan": "0"
+      },
+      "labels":{
+        "name": "Please type new faculty name",
+        "recruitmentPlan": "Please type recruitment plan",
+        "subjects": "Subjects",
+        "date": "Please type the deadline for the submission"
+      },
+      "addButton": "Add",
+      "errorSubmittingMessageSubjects": "You should add 3 subjects exactly",
+      "errorMessage": "Action Forbidden"
+    }
+  },
+  "entrant": {
+    "edit": {
+      "name": "Here you can edit your information",
+      "placeholders":{
+        "email": "something@something.else",
+        "username": "Username",
+        "name": "First name",
+        "surname": "Second name",
+        "password": "Password",
+        "repeatPassword":"Password"
+      },
+      "labels":{
+        "email": "Email",
+        "username": "Username",
+        "name": "First name",
+        "surname": "Second name",
+        "subjects": "Then choose three subjects:",
+        "password": "Enter Password",
+        "repeatPassword":"Repeat Password"
+      },
+      "editButton": "Edit",
+      "errorSubmittingMessageSubjects": "You should add 3 subjects exactly",
+      "errorSubmittingMessagePasswords": "Passwords do not match",
+      "errorMessage": "Action Forbidden",
+      "averageScoreMessage": "Please, specify your average score",
+      "scoreMessage": "Please, specify your score for"
+    }
+  },
+  "languageDropDown": {
+    "name": "Select language"
+  },
+  "login-input": {
+    "placeholders":{
+      "username": "username",
+      "password": "password"
+    },
+    "nextButton": "Next",
+    "createAccount": "Create account"
+  },
+  "registration": {
+    "name": "Registration form",
+    "placeholders":{
+      "username": "Username",
+      "password": "Password",
+      "repeatPassword":"Password",
+      "email": "something@something.else"
+    },
+    "labels":{
+      "username": "Username",
+      "password": "Enter Password",
+      "repeatPassword":"Repeat Password",
+      "email": "Email"
+    },
+    "agreeCheckbox": "I agree to the Terms and Conditions",
+    "errorMessage": "Action Forbidden",
+    "registerButton": "Register",
+    "errorSubmittingMessagePasswords": "Passwords do not match",
+    "errorSubmittingMessageTerms": "You didn't agree to the Terms and Conditions",
+    "errorSubmittingMessagePasswordLength": "Password length must be from 8 to 20 symbols"
+  },
+  "admin-panel": {
+    "name": "Admin Panel",
+    "addFacultyButton": "Add Faculty",
+    "changeListOfSubjectsButton": "Change list of subjects"
+  },
+  "subjects-edit":{
+    "name": "Edit subjects",
+    "submitButton": "Submit",
+    "addButton": "Add new Subject to list",
+    "sorry": "You don't have any subjects yet, sorry (／人 ◕ ‿‿ ◕ 人＼)"
+  },
+  "entrant-faculty": {
+    "name": "You currently applied for this faculty",
+    "unsubscribeButton":"Unsubscribe",
+    "status": "Status"
+  },
+  "sheet": {
+    "name": "Results of entrance process for",
+    "id": "Id",
+    "email": "Email",
+    "username": "Username",
+    "first_name": "First Name",
+    "second_name": "Second name",
+    "score": "Score",
+    "enrolled": "Enrolled / Not enrolled / Enlisted",
+    "labels": {
+      "enrolled": "Enrolled",
+      "notEnrolled": "Not enrolled",
+      "enlisted": "Enlisted"
+    }
+  },
+  "filter": {
+    "statuses": {
+      "first": "Enrollment has already expired",
+      "second": "Enrollment still goes",
+      "all": "All"
+    },
+    "names":{
+      "status": "Status",
+      "subjects": "Subjects",
+      "sort": "Please choose sort order"
+    },
+    "placeholders":{
+      "any": "Any"
+    },
+    "checkbox":{
+      "regular":"Regular",
+      "reverse": "Reverse"
+    },
+    "applyButton": "Apply"
+  },
+  "error": {
+    "404": "Not Found",
+    "1001": "User not found",
+    "1002": "Entrant not found",
+    "1003": "Faculty not found",
+    "1004": "Subject not found",
+    "1005": "Problem with user validation",
+    "1006": "Problem with entrant validation",
+    "1007": "Problem with faculty validation",
+    "1008": "Problem with subject validation",
+    "1009": "Not allowed access",
+    "1010": "Cannot edit faculty subjects",
+    "1011": "Entrant is already enlisted or submitted",
+    "1012": "Enrollment for faculty is over",
+    "1013": "Problem with updating user information",
+    "1014": "Problem with updating entrant information",
+    "1015": "Problem with updating faculty information",
+    "1016": "Problem with updating subjects information"
+  }
+}

@@ -1,0 +1,11 @@
+.entrant-edit-form {
+    width: calc(60% - 0.5em);
+    padding: 2em;
+    margin-bottom: 5%;
+}
+
+.entrant-edit-form-full {
+    width: 100%;
+    padding: 2em;
+    margin-bottom: 5%;
+}

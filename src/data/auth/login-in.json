@@ -1,0 +1,7 @@
+// POST
+// ./login
+
+{
+  "login":"login",
+  "password":"password"
+}

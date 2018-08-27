@@ -1,0 +1,186 @@
+{
+  "dropDownMenu": {
+    "selectLan": "Sprache auswählen",
+    "closeBtn": "Schließen",
+    "signOut": "Ausloggen",
+    "cabinet": "Persönliches Kabinett",
+    "mainPage": "Hauptseite"
+  },
+  "faculty": {
+    "table": {
+      "register": "Anmeldung zur Fakultät",
+      "reqSubjects": "Erforderliche Fächer",
+      "recruitmentPlan": "Einstellungsplan",
+      "requestsSubmitted": "Anzahl der eingereichten Anträge.",
+      "deadline":"Frist für Anfragen",
+      "getSheet": "Holen Sie sich ein Blatt",
+      "warning": {
+        "header":"Sieht hier wie nichts aus",
+        "title": "Das tut mir leid"
+      }
+    },
+    "edit": {
+      "name": "Fakultät bearbeiten",
+      "placeholders":{
+        "name": "Name der Fakultät",
+        "recruitmentPlan": "0"
+      },
+      "labels":{
+        "name": "Bitte geben Sie einen neuen Fakultätsnamen ein",
+        "deleteCheckbox": "Wählen Sie diese Option, wenn Sie alle Benutzer löschen möchten, die sich bereits für diese Fakultät beworben haben",
+        "recruitmentPlan": "Bitte geben Sie den Einstellungsplan ein",
+        "requestsSubmitted": "Anzahl der eingereichten Anträge",
+        "subjects": "Fächer"
+      },
+      "editButton": "Bearbeiten",
+      "errorSubmittingMessageSubjects": "Sie sollten genau 3 Fächer hinzufügen",
+      "errorMessage": "Aktion verboten"
+    },
+    "add": {
+      "name": "Fakultät hinzufügen",
+      "placeholders":{
+        "name": "Name der Fakultät",
+        "recruitmentPlan": "0"
+      },
+      "labels":{
+        "name": "Bitte geben Sie einen neuen Fakultätsnamen ein",
+        "recruitmentPlan": "Bitte geben Sie den Einstellungsplan ein",
+        "subjects": "Fächer",
+        "date": "Bitte geben Sie den Abgabetermin für die Einreichung ein"
+      },
+      "addButton": "Hinzufügen",
+      "errorSubmittingMessageSubjects": "Sie sollten genau 3 Fächer hinzufügen",
+      "errorMessage": "Aktion verboten"
+    }
+  },
+  "entrant": {
+    "edit": {
+      "name": "Hier können Sie Ihre Informationen bearbeiten",
+      "placeholders":{
+        "email": "something@something.else",
+        "username": "Nutzername",
+        "name": "Vorname",
+        "surname": "Nachname",
+        "password": "Passwort",
+        "repeatPassword":"Passwort"
+      },
+      "labels":{
+        "email": "Email",
+        "username": "Nutzername",
+        "name": "Vorname",
+        "surname": "Nachname",
+        "password": "Passwort",
+        "repeatPassword":"Passwort",
+        "subjects": "Dann wähle drei Themen:"
+      },
+      "editButton": "Edit",
+      "errorSubmittingMessageSubjects": "Sie sollten genau 3 Fächer hinzufügen",
+      "errorSubmittingMessagePasswords": "Passwörter stimmen nicht überein",
+      "errorMessage": "Aktion verboten",
+      "averageScoreMessage": "Bitte geben Sie Ihre durchschnittliche Punktzahl an",
+      "scoreMessage": "Bitte geben Sie Ihre Punktzahl für"
+    }
+  },
+  "languageDropDown": {
+    "name": "Sprache auswählen"
+  },
+  "login-input": {
+    "placeholders":{
+      "username": "nutzername",
+      "password": "passwort"
+    },
+    "nextButton": "Nächster",
+    "createAccount": "Benutzerkonto anlegen"
+  },
+  "registration": {
+    "name": "Anmeldeformular",
+    "placeholders":{
+      "username": "Nutzername",
+      "password": "Passwort",
+      "repeatPassword":"Passwort",
+      "email": "something@something.else"
+    },
+    "labels":{
+      "username": "Nutzername",
+      "password": "Passwort eingeben",
+      "repeatPassword":"Passwort wiederholen",
+      "email": "Email"
+    },
+    "agreeCheckbox": "Ich stimme den AGB zu",
+    "errorMessage": "Aktion verboten",
+    "registerButton": "Registrieren",
+    "errorSubmittingMessagePasswords": "Passwörter stimmen nicht überein",
+    "errorSubmittingMessageTerms": "Sie haben den Allgemeinen Geschäftsbedingungen nicht zugestimmt",
+    "errorSubmittingMessagePasswordLength": "Die Passwortlänge muss zwischen 8 und 20 Zeichen liegen"
+  },
+  "admin-panel": {
+    "name": "Administrationsmenü",
+    "addFacultyButton": "Fakultät hinzufügen",
+    "changeListOfSubjectsButton": "Ändern Sie die Liste der Themen"
+  },
+  "subjects-edit":{
+    "name": "Themen bearbeiten",
+    "submitButton": "Einreichen",
+    "addButton": "Fügen Sie der Liste ein neues Thema hinzu",
+    "sorry": "Du hast noch keine Fächer, sorry (／人 ◕ ‿‿ ◕ 人＼)"
+  },
+  "entrant-faculty": {
+    "name": "Sie bewerben sich derzeit für diese Fakultät",
+    "unsubscribeButton":"Abmelden",
+    "status": "Status"
+  },
+  "sheet": {
+    "name": "Ergebnisse des Eingangsprozesses für",
+    "id": "Id",
+    "email": "Email",
+    "username": "Nutzername",
+    "first_name": "Vorname",
+    "second_name": "Zweitname",
+    "score": "Ergebnis",
+    "enrolled": "Eingeschrieben / Nicht angemeldet / Angemeldet",
+    "labels": {
+      "enrolled": "Eingeschrieben",
+      "notEnrolled": "Nicht eingeschrieben",
+      "enlisted": "Angemeldet"
+    }
+  },
+  "filter": {
+    "statuses": {
+      "first": "Die Anmeldung ist bereits abgelaufen",
+      "second": "Die Anmeldung läuft noch",
+      "all": "Alle"
+    },
+    "names":{
+      "status": "Status",
+      "subjects": "Fächer",
+      "sort": "Bitte wählen Sie die Sortierreihenfolge"
+    },
+    "placeholders":{
+      "any": "Irgendein"
+    },
+    "checkbox":{
+      "regular":"Regulär",
+      "reverse": "Umkehren"
+    },
+    "applyButton": "Sich bewerben"
+  },
+  "error": {
+    "404": "Nicht gefunden",
+    "1001": "Benutzer nicht gefunden",
+    "1002": "Teilnehmer nicht gefunden",
+    "1003": "Fakultät nicht gefunden",
+    "1004": "Betreff nicht gefunden",
+    "1005": "Problem mit Benutzervalidierung",
+    "1006": "Problem mit der Validierung des Teilnehmers",
+    "1007": "Problem mit Fakultätsvalidierung",
+    "1008": "Problem mit der Validierung des Themas",
+    "1009": "Nicht erlaubter Zugang",
+    "1010": "Fakultative Fächer können nicht bearbeitet werden",
+    "1011": "Teilnehmer wird bereits eingetragen oder eingereicht",
+    "1012": "Einschreibung für Fakultät ist vorbei",
+    "1013": "Problem beim Aktualisieren der Benutzerinformationen",
+    "1014": "Problem bei der Aktualisierung der Teilnehmerinformationen",
+    "1015": "Problem beim Aktualisieren der Fakultätsinformationen",
+    "1016": "Problem mit dem Aktualisieren von Subjektinformationen"
+  }
+}
